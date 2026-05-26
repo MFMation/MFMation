@@ -19,10 +19,10 @@ escutar musica <br/>
 <h3>Escotismo</h3>
 Sou escoteiro há 7 anos.<br/>
 Como lobinho: <br/>
-•fui primo <br/>
-•conquistei o Cruzeiro do Sul.<br/>
+•Fui primo <br/>
+•Conquistei o Cruzeiro do Sul.<br/>
 Como escoteiro:<br/>
-•participei de inúmeros acampamentos que testaram minha resistência, foco,<br/>
+•Participei de inúmeros acampamentos que testaram minha resistência, foco,<br/>
 precisão na realização de tarefas e capacidade de trabalho em equipe.<br/>
 •Fui monitor e venci dois acampamentos técnicos, sendo um deles como monitor.<br/>
 Esses acampamentos anuais tem duração de 5 dias e 4 noites, com caráter competitivo entre equipes<br/>
