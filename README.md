@@ -3,6 +3,7 @@
 </p>
 <h1 align="center">
 E aí, beleza? Sou o Matheus
+<img src="mao.gif">
 </h1>
 <details>
 <summary><strong>Clique aqui para ter mais informações sobre mim e minha carreira</strong></summary>
